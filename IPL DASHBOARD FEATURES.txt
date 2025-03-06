@@ -29,5 +29,3 @@ IPL TEAMS COLOR CODES: ( https://www.brandcolorcode.com/company/ipl-teams )
 -> GUJARAT TITANS - DCC06F, FFFFFF, 1B2133
 -> LUCKNOW SUPER GIANTS - 3A5FAC, 39A9E0, 2E3386, E21F26, AC284F, F08821, FECC05, ECECED, B4B4B4, 4CAD47, 94C13E
 
-
-slicer is not working for - 4s, 6s, top5 batters, top 5 bowlers, orange cap , purple cap
