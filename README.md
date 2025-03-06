@@ -1,4 +1,4 @@
-IPL Tournament Data Analysis Dashboard
+# IPL Tournament Data Analysis Dashboard
 This project analyzes IPL match data (2008-2024) to extract key statistics on team performances, player achievements, and tournament trends. Using Excel and SQL, it processes over 300,000 records, addressing data inconsistencies and generating insights through PivotTables and an interactive dashboard.
 
 Key Features:
